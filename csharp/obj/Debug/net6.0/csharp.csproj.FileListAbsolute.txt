@@ -1,0 +1,15 @@
+/Users/ana/Documents/С#_2/csharp/bin/Debug/net6.0/csharp
+/Users/ana/Documents/С#_2/csharp/bin/Debug/net6.0/csharp.deps.json
+/Users/ana/Documents/С#_2/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/ana/Documents/С#_2/csharp/bin/Debug/net6.0/csharp.dll
+/Users/ana/Documents/С#_2/csharp/bin/Debug/net6.0/csharp.pdb
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.dll
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/refint/csharp.dll
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.pdb
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/Users/ana/Documents/С#_2/csharp/obj/Debug/net6.0/ref/csharp.dll
